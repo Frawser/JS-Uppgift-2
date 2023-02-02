@@ -1,0 +1,18 @@
+.completed {
+    text-decoration: line-through;
+    color: rgb(45, 43, 42);
+}
+
+p {
+    pointer-events: none;
+}
+
+.on-off
+{
+    display: none;
+}
+
+.error {
+    display: none;
+    color: red;
+}
